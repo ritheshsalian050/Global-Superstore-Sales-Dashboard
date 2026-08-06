@@ -53,4 +53,4 @@ This project presents an interactive Power BI dashboard built using the Global S
 
 ## 👨‍💻 Author
 
-**Rithesh Salian**
+**Rithesh K K**
